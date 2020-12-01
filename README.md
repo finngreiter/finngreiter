@@ -1,6 +1,7 @@
 # github/finngreiter
 
 ![sheild](https://img.shields.io/badge/alive-true-green)
+![location](https://img.shields.io/badge/location-earth-blue)
 
 hi! my *hacker name* is felgee and i live on earth
 ```javascript
