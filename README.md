@@ -1,4 +1,7 @@
 # github/finngreiter
+
+![sheild](https://img.shields.io/badge/alive-true-green)
+
 hi! my *hacker name* is felgee and i live on earth
 ```javascript
 let myFavoriteProgrammingLaguage = 'javascript';
