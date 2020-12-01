@@ -8,3 +8,5 @@ let myFavoriteProgrammingLaguage = 'javascript';
 most of my repos are dead or have never been commited to.
 
 i've also made some npm packages, including: [hashfry](https://npmjs.com/package/hashfry), a simple hashing library, and [hyprlink](https://npmjs.com/package/hyprlink), for recognizing links in plain text.
+
+p.s. my profile picture is of K-3PO
