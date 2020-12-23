@@ -5,7 +5,7 @@
 
 hi! my *hacker name* is felgee and i live on earth
 ```javascript
-let myFavoriteProgrammingLaguage = 'javascript';
+const myFavoriteProgrammingLaguage = 'javascript';
 ```
 (i also like python, but not as much)
 
