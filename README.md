@@ -9,8 +9,8 @@ let myFavoriteProgrammingLaguage = 'javascript';
 ```
 (i also like python, but not as much)
 
-most of my repos are dead or have never been commited to.
+most of my repos are either empty or dead.
 
-i've also made some npm packages, including: [hashfry](https://npmjs.com/package/hashfry), a simple hashing library, and [hyprlink](https://npmjs.com/package/hyprlink), for recognizing links in plain text.
+i've also made some npm packages, including: hashfry [gh](https://github.com/finngreiter/hashfry) [npm](https://npmjs.com/package/hashfry), a simple hashing library, and hyprlink [gh](https://github.com/finngreiter/hyprlink) [npm](https://npmjs.com/package/hyprlink), for recognizing links in plain text.
 
-p.s. my profile picture is of K-3PO
+p.s. my profile picture is of K-3PO with a santa hat
