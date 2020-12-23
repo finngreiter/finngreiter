@@ -1,4 +1,4 @@
-# github/finngreiter
+# ⚡ hi there ⚡
 
 ![sheild](https://img.shields.io/badge/alive-true-green)
 ![location](https://img.shields.io/badge/location-earth-blue)
